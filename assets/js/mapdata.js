@@ -7,7 +7,7 @@ var simplemaps_continentmap_mapdata={
     popups: "detect",
     
 		//State defaults
-		state_description: "Découvrir les destinations",
+		state_description: "Discover destinations",
     state_color: "#88A4BC",
     state_hover_color: "#3B729F",
     state_url: "",
@@ -73,14 +73,14 @@ var simplemaps_continentmap_mapdata={
   },
   state_specific: {
     SA: {
-      name: "Amérique du Sud",
+      name: "South America",
       description: "default",
       color: "#CC33FF",
       hover_color: "#751d92",
       url: "default"
     },
     NA: {
-      name: "Amérique du Nord",
+      name: "North America",
       description: "default",
       color: "#3366FF",
       hover_color: "#1c388c",
@@ -94,35 +94,35 @@ var simplemaps_continentmap_mapdata={
       url: "default"
     },
     AF: {
-      name: "Afrique",
+      name: "Africa",
       description: "default",
       color: "#33FF66",
       hover_color: "#1a8535",
       url: "default"
     },
     NS: {
-      name: "Asie du Nord",
+      name: "North Asia",
       description: "default",
       color: "#33FFCC",
       hover_color: "#23b28e",
       url: "default"
     },
     SS: {
-      name: "Asie du Sud",
+      name: "South Asia",
       description: "default",
       color: "#FF6633",
       hover_color: "#ac4422",
       url: "default"
     },
     ME: {
-      name: "Moyen-Orient",
+      name: "Middle East",
       description: "default",
       color: "#FFCC33",
       hover_color: "#bb9525",
       url: "default"
     },
     OC: {
-      name: "Océanie",
+      name: "Oceania",
       description: "default",
       color: "#FF33CC",
       hover_color: "#b1238d",
@@ -132,7 +132,7 @@ var simplemaps_continentmap_mapdata={
   locations: {
 
     "1": {
-      name: "Royaume-Uni",
+      name: "United Kingdom",
       lat: 54.633221,
       lng: -3.432277,
       description: "default",
